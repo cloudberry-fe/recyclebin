@@ -1,0 +1,5 @@
+# recyclebin extension
+comment = 'Move dropped/truncated tables to recyclebin'
+default_version = '0.5'
+module_pathname = '$libdir/recyclebin'
+relocatable = false
