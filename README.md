@@ -25,7 +25,7 @@ RecycleBin is a Cloudberry extension that provides recycle bin functionality for
 
 ```bash
 # Clone the repository
-git clone https://github.com/Chong-cn/recyclebin.git
+git clone https://github.com/cloudberry-fe/recyclebin.git
 cd recyclebin
 
 # Compile the extension
